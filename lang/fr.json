@@ -38,263 +38,211 @@
 		},
 		"resetDefaults": {
 			"label": "Paramètres par défaut"
-		},
-		"attack-descriptions": {
-			"settings": {
-				"name": "Descriptifs d'attaque générés",
-				"hint": "Affiche les descriptifs d'attaque générés par défaut."
-			}
-		},
-		"casting-feature": {
-			"settings": {
-				"name": "Capacités d'incantation générées",
-				"hint": "Affiche les capacités d'incantation générées par défaut."
-			}
-		},
-		"inline-secrets": {
-			"settings": {
-				"name": "Afficher les textes secrets",
-				"hint": "Affiche les textes secrets comme les autres textes, par défaut. Ou les affiche en forme de bloc."
-			}
-		},
-		"hidden-secrets": {
-			"settings": {
-				"name": "Cacher les secrets",
-				"hint": "Cache les secrets de la fiche par défaut."
-			}
-		},
-		"hide-profile-image": {
-			"settings": {
-				"name": "Cacher l'image",
-				"hint": "Cache l'image de profil de la fiche par défaut"
-			}
-		},
-		"show-lair-actions": {
-			"settings": {
-				"name": "Afficher les actions d'antre",
-				"hint": "Affiche les actions d'antre par défaut (pas incluses dans les stat-blocks des monstres)."
-			}
-		},
-		"current-hit-points": {
-			"settings": {
-				"name": "Afficher les points de vie actuels",
-				"hint": "Affiche les points de vie actuels par défaut. Si le minimum et le maximum ne sont pas affichés, la moyenne sera calculée et affichée."
-			}
-		},
-		"maximum-hit-points": {
-			"settings": {
-				"name": "Afficher le maximum de points de vie",
-				"hint": "Affiche le maximum de points de vie par défaut."
-			}
-		},
-		"max-height-offset": {
-			"settings": {
-				"name": "Décalage de hauteur maximale",
-				"hint": "La hauteur maximum de la fenêtre de Monster Blocks est basée sur la hauteur du navigateur, moins ce décalage. La valeur par défaut de 72 est la hauteur de la barre de macro plus 10px de remplissage. Si vous préférez des statblocks grands et fins, réduisez cette valeur. Si vous préférez des statblocks plus larges (avec plus de colonnes), augmentez cette valeur."
-			}
-		},
-		"default-theme": {
-			"settings": {
-				"name": "Thème par défaut",
-				"hint": "Choisissez le thème à appliquer par défaut."
-			}
-		},
-		"custom-theme-class": {
-			"settings": {
-				"name": "Thème personnalisé par défaut",
-				"hint": "Le nom de classe utilisé pour votre thème personnalisé par défaut."
-			}
-		},
-		"editing": {
-			"settings": {
-				"name": "Activer édition",
-				"hint": "Choisissez si l'édition est activée ou non, par défaut."
-			}
-		},
-		"show-not-prof": {
-			"settings": {
-				"name": "Afficher les compétences non-maîtrisées",
-				"hint": "Choisissez si les compétences et sauvegarde non-maîtrisées sont afichées ou non, par défaut."
-			}
-		},
-		"show-resources": {
-			"settings": {
-				"name": "Afficher les valeurs de ressources",
-				"hint": "Choisissez si les valeurs de ressources sont affichées ou non, par défaut."
-			}
-		},
-		"show-skill-save": {
-			"settings": {
-				"name": "Toujours afficher les compétences et sauvegardes",
-				"hint": "Choisissez si les compétences vides et sauvegardes sont affichées ou non, par défaut."
-			}
-		},
+		}
+	},
 
-		"MonsterBlocks": "Monster Blocks",
-		
-		"SwitchToDefault": "Basculer vers la fiche par défaut",
-		"SwitchToMobloks": "Basculer vers Monster Blocks",
-		"AttackDescriptions": "Descriptif d'attaque",
-		
-		"EnableEdit": "Activer édition",
-		"DisableEdit": "Désactiver édition",
-		"EnableDelete": "Activer suppression",
-		"DisableDelete": "Désactiver suppression",
-		"ShowNotProf": "Afficher les compétences non-maîtrisées",
-		"HideNotProf": "Cacher les compétences non-maîtrisées",
-		"ShowSkillSave": "Toujours afficher les compétences et sauvegardes",
-		"HideSkillSave": "Cacher les compétences vides et sauvegardes",
-		"ShowBio": "Afficher la biographie",
-		"HideBio": "Cacher la biographie",
-		"ShowResources": "Afficher les valeurs de ressources",
-		"HideResources": "Cacher les valeurs de ressources",
-		"ShowGenerated": "Afficher les textes générés",
-		"HideGenerated": "Cacher les textes générés",
-		"DescriptionS": "Descriptions",
-		"EnableInlSecr": "Afficher les textes secrets",
-		"DisableInlSecr": "Cacher les textes secrets",
-		"ShowSecrets": "Afficher les secrets",
-		"HideSecrets": "Cacher les secrets",
-		"ShowMaxHP": "Afficher le maximum de points de vie",
-		"HideMaxHP": "Cacher le maximum de points de vie",
-		"ShowCurrentHP": "Afficher les points de vie actuels",
-		"HideCurrentHP": "Cacher les points de vie actuels",
-		"ShowProfileImage": "Afficher image de profil",
-		"HideProfileImage": "Cacher image de profil",
-		"ShowLair": "Afficher les actions d'antre",
-		"HideLair": "Cacher les actions d'antre",
-		"OpenTokenizer": "Ouvrir VTTA Tokenizer",
-		"QuickInsert": "Quick Insert",
+	"MOBLOKS5E.MonsterBlocks": "Monster Blocks",
+	
+	"MOBLOKS5E.SwitchToDefault": "Basculer vers la fiche par défaut",
+	"MOBLOKS5E.SwitchToMobloks": "Basculer vers Monster Blocks",
+	"MOBLOKS5E.AttackDescriptions": "Descriptif d'attaque",
+	
+	"MOBLOKS5E.EnableEdit": "Activer édition",
+	"MOBLOKS5E.DisableEdit": "Désactiver édition",
+	"MOBLOKS5E.EnableDelete": "Activer suppression",
+	"MOBLOKS5E.DisableDelete": "Désactiver suppression",
+	"MOBLOKS5E.ShowNotProf": "Afficher les compétences non-maîtrisées",
+	"MOBLOKS5E.HideNotProf": "Cacher les compétences non-maîtrisées",
+	"MOBLOKS5E.ShowSkillSave": "Toujours afficher les compétences et sauvegardes",
+	"MOBLOKS5E.HideSkillSave": "Cacher les compétences vides et sauvegardes",
+	"MOBLOKS5E.ShowBio": "Afficher la biographie",
+	"MOBLOKS5E.HideBio": "Cacher la biographie",
+	"MOBLOKS5E.ShowResources": "Afficher les valeurs de ressources",
+	"MOBLOKS5E.HideResources": "Cacher les valeurs de ressources",
+	"MOBLOKS5E.ShowGenerated": "Afficher les textes générés",
+	"MOBLOKS5E.HideGenerated": "Cacher les textes générés",
+	"MOBLOKS5E.DescriptionS": "Descriptions",
+	"MOBLOKS5E.EnableInlSecr": "Afficher les textes secrets",
+	"MOBLOKS5E.DisableInlSecr": "Cacher les textes secrets",
+	"MOBLOKS5E.ShowSecrets": "Afficher les secrets",
+	"MOBLOKS5E.HideSecrets": "Cacher les secrets",
+	"MOBLOKS5E.ShowMaxHP": "Afficher le maximum de points de vie",
+	"MOBLOKS5E.HideMaxHP": "Cacher le maximum de points de vie",
+	"MOBLOKS5E.ShowCurrentHP": "Afficher les points de vie actuels",
+	"MOBLOKS5E.HideCurrentHP": "Cacher les points de vie actuels",
+	"MOBLOKS5E.ShowProfileImage": "Afficher image de profil",
+	"MOBLOKS5E.HideProfileImage": "Cacher image de profil",
+	"MOBLOKS5E.ShowLair": "Afficher les actions d'antre",
+	"MOBLOKS5E.HideLair": "Cacher les actions d'antre",
+	"MOBLOKS5E.OpenTokenizer": "Ouvrir VTTA Tokenizer",
+	"MOBLOKS5E.QuickInsert": "Quick Insert",
 
-		"Theme": "Theme",
-		"CustomThemeName": "Custom",
-		"DefaultThemeName": "Monster Manual",
-		"SimpleThemeName": "5e SRD",
-		"DarkThemeName": "Darkness",
-		"CoolThemeName": "Icy Breeze",
-		"HotThemeName": "Smouldering Ember",
-		"FoundryThemeName": "Foundry",
-		
-		"Average": "Moyen",
-		"Current": "Actuel",
-		"Maximum": "Maximum",
-		
-		"Abbrstr": "for",
-		"Abbrdex": "dex",
-		"Abbrcon": "con",
-		"Abbrint": "int",
-		"Abbrwis": "sag",
-		"Abbrcha": "cha",
-		"Abbrhon": "hon",
-		"Abbrsan": "san",
-		"Abbrblo": "blo",
+	"MOBLOKS5E.Theme": "Theme",
+	"MOBLOKS5E.CustomThemeName": "Custom",
+	"MOBLOKS5E.DefaultThemeName": "Monster Manual",
+	"MOBLOKS5E.SimpleThemeName": "5e SRD",
+	"MOBLOKS5E.DarkThemeName": "Darkness",
+	"MOBLOKS5E.CoolThemeName": "Icy Breeze",
+	"MOBLOKS5E.HotThemeName": "Smouldering Ember",
+	"MOBLOKS5E.FoundryThemeName": "Foundry",
+	
+	"MOBLOKS5E.Average": "Moyen",
+	"MOBLOKS5E.Current": "Actuel",
+	"MOBLOKS5E.Maximum": "Maximum",
+	
+	"MOBLOKS5E.Abbrstr": "for",
+	"MOBLOKS5E.Abbrdex": "dex",
+	"MOBLOKS5E.Abbrcon": "con",
+	"MOBLOKS5E.Abbrint": "int",
+	"MOBLOKS5E.Abbrwis": "sag",
+	"MOBLOKS5E.Abbrcha": "cha",
+	"MOBLOKS5E.Abbrhon": "hon",
+	"MOBLOKS5E.Abbrsan": "san",
+	"MOBLOKS5E.Abbrblo": "blo",
 
-		"Score": "Score",
-		"Modifier": "Modificateur",
-		"SavingThrowS": "Sauvegardes",
-		"PassivePerception": "Perception passive {pp}",
-		"PerceptionLocator": "perception",
-		"SkillS": "Compétence",
-		"XPLabel": "{xp} XP",
-		"physicalDamage": "contondant, perforant et tranchant d'attaques non magiques",
-		"Challenge": "Puissance",
+	"MOBLOKS5E.Score": "Score",
+	"MOBLOKS5E.Modifier": "Modificateur",
+	"MOBLOKS5E.SavingThrowS": "Sauvegardes",
+	"MOBLOKS5E.PassivePerception": "Perception passive {pp}",
+	"MOBLOKS5E.PerceptionLocator": "perception",
+	"MOBLOKS5E.SkillS": "Compétence",
+	"MOBLOKS5E.XPLabel": "{xp} XP",
+	"MOBLOKS5E.physicalDamage": "contondant, perforant et tranchant d'attaques non magiques",
+	"MOBLOKS5E.Challenge": "Puissance",
 
-		"EditHint": "Clic-droit pour éditer",
+	"MOBLOKS5E.EditHint": "Clic-droit pour éditer",
 
-		"AddFeat": "Capacité",
-		"AddAttack": "Attaque",
-		"AddAct": "Action",
-		"AddSpell": "Sort",
-		"AddInventory": "Trésor",
-		"AddConsumable": "Consommable",
-		
-		"Recharge": "Recharge",
-		"NCharged": "Pas chargé",
-		"Costs": "Coûts",
-		"ResourceRefresh": "Jour",
-		
-		"zero": "zero",
-		"one": "un",
-		"two": "deux",
-		"three": "trois",
-		"four": "quatre",
-		"five": "cinq",
-		"six": "six",
-		"seven": "sept",
-		"eight": "huit",
-		"nine": "neuf",
-		
-		"FullStop": ".",
-		"NameDescriptionSep": ".",
-		"SpeedUnitAbbrEnd": ".",
-		"Comma": ",",
-		"Colon": ":",
-		
-		"Cantrips": "Tours de magie",
-		"AtWill": "à volonté",
+	"MOBLOKS5E.AddFeat": "Capacité",
+	"MOBLOKS5E.AddAttack": "Attaque",
+	"MOBLOKS5E.AddAct": "Action",
+	"MOBLOKS5E.AddSpell": "Sort",
+	"MOBLOKS5E.AddInventory": "Trésor",
+	"MOBLOKS5E.AddConsumable": "Consommable",
+	
+	"MOBLOKS5E.Recharge": "Recharge",
+	"MOBLOKS5E.NCharged": "Pas chargé",
+	"MOBLOKS5E.Costs": "Coûts",
+	"MOBLOKS5E.ResourceRefresh": "Jour",
+	
+	"MOBLOKS5E.zero": "zero",
+	"MOBLOKS5E.one": "un",
+	"MOBLOKS5E.two": "deux",
+	"MOBLOKS5E.three": "trois",
+	"MOBLOKS5E.four": "quatre",
+	"MOBLOKS5E.five": "cinq",
+	"MOBLOKS5E.six": "six",
+	"MOBLOKS5E.seven": "sept",
+	"MOBLOKS5E.eight": "huit",
+	"MOBLOKS5E.nine": "neuf",
+	
+	"MOBLOKS5E.FullStop": ".",
+	"MOBLOKS5E.NameDescriptionSep": ".",
+	"MOBLOKS5E.SpeedUnitAbbrEnd": ".",
+	"MOBLOKS5E.Comma": ",",
+	"MOBLOKS5E.Colon": ":",
+	
+	"MOBLOKS5E.Cantrips": "Tours de magie",
+	"MOBLOKS5E.AtWill": "à volonté",
 
-		"CasterNameLevel": "{name} est un lanceur de sorts de niveau {level}.",
-		"CastingAbility": "Sa caractéristique d'incantation est {ability}",
-		"InnateCastingAbility": "La caractéristique d'incantation innée du {name} est {ability}",
-		"CastingStats": "(jet sauvegarde contre ses sorts DD {savedc}, {bonus} au toucher pour les attaques avec un sort).",
-		"CasterAtWill": " peut lancer {spells} à volonté et",
-		"CasterSpellsPreped": "Le {name} a préparé les sorts suivants :",
-		"WarlockSpellsPreped": "Il a préparé les sorts de sorcier suivants:",
-		"InnateSpellsKnown": "Le {name} peut lancer les sorts suivants de manière innée, sans avoir besoin de composantes matérielles :",
-		"WarlockSlotRegain": "Il regagne tous ses emplacements de sorts dépensés lorsqu'il termine un repos court ou long",
-		"ListFinalConjunctionAnd": "et",
-		"MultiDamageAttackConjunctionPlus": "plus",
+	"MOBLOKS5E.CasterNameLevel": "{name} est un lanceur de sorts de niveau {level}.",
+	"MOBLOKS5E.CastingAbility": "Sa caractéristique d'incantation est {ability}",
+	"MOBLOKS5E.InnateCastingAbility": "La caractéristique d'incantation innée du {name} est {ability}",
+	"MOBLOKS5E.CastingStats": "(jet sauvegarde contre ses sorts DD {savedc}, {bonus} au toucher pour les attaques avec un sort).",
+	"MOBLOKS5E.CasterAtWill": " peut lancer {spells} à volonté et",
+	"MOBLOKS5E.CasterSpellsPreped": "Le {name} a préparé les sorts suivants :",
+	"MOBLOKS5E.WarlockSpellsPreped": "Il a préparé les sorts de sorcier suivants:",
+	"MOBLOKS5E.InnateSpellsKnown": "Le {name} peut lancer les sorts suivants de manière innée, sans avoir besoin de composantes matérielles :",
+	"MOBLOKS5E.WarlockSlotRegain": "Il regagne tous ses emplacements de sorts dépensés lorsqu'il termine un repos court ou long",
+	"MOBLOKS5E.ListFinalConjunctionAnd": "et",
+	"MOBLOKS5E.MultiDamageAttackConjunctionPlus": "plus",
 
-		"SpellLevel": "Niveau {level}",
-		"SpellCost": "{cost} chacun",
-		"SpellSlots": "{slots} emplacements",
-		"SpellPactSlots": "Niveau {level} ({slots} emplacements)",
-		
-		"range": "portée",
-		"reach": "allonge",
-		"target": "cible",
-		"targetS": "cibles",
-		"AttackToHit": "{bonus} pour toucher",
-		"AttackRange": "{reachRange} {range}{sep}{max} {units}.",
-		"AttackTarget": "{quantity} {type}",
-		"AttackHitLabel": "Touché :",
-		"AttackDamageTemplate": "{average} ({formula}) {type}",
-		"AttackVersatile": "ou {damage} dégâts si utilisée à deux mains",
-		"damage": "dégâts",
-		
-		"Reactions": "Réactions",
-		"Multiattack": "Attaques multiples",
-		"LegendaryResistance": "Résistance légendaire",
-		
-		"OrdinalSuffixes": ["st", "nd", "rd", "th"],
-		
-		"MultiattackLocators": [
-			"Attaques multiples",
-			"multiattack",
-			"extraattack",
-			"extraattacks",
-			"multiattacks",
-			"multipleattacks",
-			"manyattacks"
-		],
-		"WarlockLocators": [
-			"Sorcier",
-			"Magie de pacte"
-		],
-		"SpellcastingLocators": [
-			"Incantation",
-			"Magie de pacte"
-		],
-		"InnateCastingLocators": [
-			"Incantation innée",
-			"Incantation innée (psionique)",
-			"Incantation innée psionique"
-		],
-		
-		"LegActionCost": "Coûte {number} Actions",
-		"LegendaryText": "Le {name} peut effectuer {number} actions légendaires, en choisissant parmi les options suivantes. Une seule action légendaire peut être utilisée à la fois, et seulement à la fin du tour d'une autre créature. Le {name} récupère les actions légendaires dépensées au début de son tour.",
-		
-		"LairActionsHeading": "Actions d'antre",
-		"LairText": "À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), le {name} peut effectuer une de ses actions d'antre. Il ne peut pas le faire tant qu'il est neutralisé ou incapable d'agir d'une façon ou d'une autre. S'il est surpris lors d'un combat, il ne peut pas l'effectuer avant la fin de son premier tour de jeu."
-	}
+	"MOBLOCKS5E.SpellLevel": "Niveau {level}",
+	"MOBLOCKS5E.SpellCost": "{cost} chacun",
+	"MOBLOCKS5E.SpellSlots": "{slots} emplacements",
+	"MOBLOCKS5E.SpellPactSlots": "Niveau {level} ({slots} emplacements)",
+	
+	"MOBLOKS5E.range": "portée",
+	"MOBLOKS5E.reach": "allonge",
+	"MOBLOKS5E.target": "cible",
+	"MOBLOKS5E.targetS": "cibles",
+	"MOBLOKS5E.AttackToHit": "{bonus} pour toucher",
+	"MOBLOKS5E.AttackRange": "{reachRange} {range}{sep}{max} {units}.",
+	"MOBLOKS5E.AttackTarget": "{quantity} {type}",
+	"MOBLOKS5E.AttackHitLabel": "Touché :",
+	"MOBLOKS5E.AttackDamageTemplate": "{average} ({formula}) {type}",
+	"MOBLOKS5E.AttackVersatile": "ou {damage} dégâts si utilisée à deux mains",
+	"MOBLOKS5E.damage": "dégâts",
+	
+	"MOBLOKS5E.Reactions": "Réactions",
+	"MOBLOKS5E.Multiattack": "Attaques multiples",
+	"MOBLOKS5E.LegendaryResistance": "Résistance légendaire",
+	
+	"MOBLOKS5E.OrdinalSuffixes": ["st", "nd", "rd", "th"],
+	
+	"MOBLOKS5E.MultiattackLocators": [
+		"attaquesmultiples",
+		"multiattack",
+		"extraattack",
+		"extraattacks",
+		"multiattacks",
+		"multipleattacks",
+		"manyattacks"
+	],
+	"MOBLOKS5E.WarlockLocators": [
+		"warlock",
+		"pactmagic",
+		"sorcier",
+		"magiedepacte"
+	],
+	"MOBLOKS5E.SpellcastingLocators": [
+		"spellcasting",
+		"pactmagic",
+		"incantation",
+		"magiedepacte"
+	],
+	"MOBLOKS5E.InnateCastingLocators": [
+		"innatespellcasting",
+		"innatespellcasting(psionics)",
+		"innatespellcastingpsionics",
+		"incantationinnée",
+		"incantationinnée(psionique)",
+		"incantationinnéepsionique"
+	],
+	
+	"MOBLOKS5E.LegActionCost": "Coûte {number} Actions",
+	"MOBLOKS5E.LegendaryText": "Le {name} peut effectuer {number} actions légendaires, en choisissant parmi les options suivantes. Une seule action légendaire peut être utilisée à la fois, et seulement à la fin du tour d'une autre créature. Le {name} récupère les actions légendaires dépensées au début de son tour.",
+	
+	"MOBLOKS5E.LairActionsHeading": "Actions d'antre",
+	"MOBLOKS5E.LairText": "À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), le {name} peut effectuer une de ses actions d'antre. Il ne peut pas le faire tant qu'il est neutralisé ou incapable d'agir d'une façon ou d'une autre. S'il est surpris lors d'un combat, il ne peut pas l'effectuer avant la fin de son premier tour de jeu.",
+
+	"MOBLOKS5E.attack-description-name": "Descriptifs d'attaque générés",
+	"MOBLOKS5E.attack-description-hint": "Affiche les descriptifs d'attaque générés par défaut.",
+	"MOBLOKS5E.casting-feature-name": "Capacités d'incantation générées",
+	"MOBLOKS5E.casting-feature-hint": "Affiche les capacités d'incantation générées par défaut.",
+	"MOBLOKS5E.inline-secrets-name": "Afficher les textes secrets",
+	"MOBLOKS5E.inline-secrets-hint": "Affiche les textes secrets comme les autres textes, par défaut. Ou les affiche en forme de bloc.",
+	"MOBLOKS5E.hidden-secrets-name": "Cacher les secrets",
+	"MOBLOKS5E.hidden-secrets-hint": "Cache les secrets de la fiche par défaut."
+	"MOBLOKS5E.hide-profile-image-name": "Cacher l'image",
+	"MOBLOKS5E.hide-profile-image-hint": "Cache l'image de profil de la fiche par défaut",
+	"MOBLOKS5E.show-lair-actions-name": "Afficher les actions d'antre",
+	"MOBLOKS5E.show-lair-actions-hint": "Affiche les actions d'antre par défaut (pas incluses dans les stat-blocks des monstres).",
+	"MOBLOKS5E.current-hit-points-name": "Afficher les points de vie actuels",
+	"MOBLOKS5E.current-hit-points-hint": "Affiche les points de vie actuels par défaut. Si le minimum et le maximum ne sont pas affichés, la moyenne sera calculée et affichée.",
+	"MOBLOKS5E.maximum-hit-points-name": "Afficher le maximum de points de vie",
+	"MOBLOKS5E.maximum-hit-points-hint": "Affiche le maximum de points de vie par défaut.",
+	"MOBLOKS5E.max-height-offset-name": "Décalage de hauteur maximale",
+	"MOBLOKS5E.max-height-offset-hint": "La hauteur maximum de la fenêtre de Monster Blocks est basée sur la hauteur du navigateur, moins ce décalage. La valeur par défaut de 72 est la hauteur de la barre de macro plus 10px de remplissage. Si vous préférez des statblocks grands et fins, réduisez cette valeur. Si vous préférez des statblocks plus larges (avec plus de colonnes), augmentez cette valeur.",
+	"MOBLOKS5E.default-theme-name": "Thème par défaut",
+	"MOBLOKS5E.default-theme-hint": "Choisissez le thème à appliquer par défaut.",
+	"MOBLOKS5E.custom-theme-class-name": "Thème personnalisé par défaut",
+	"MOBLOKS5E.custom-theme-class-hint": "Le nom de classe utilisé pour votre thème personnalisé par défaut.",
+	"MOBLOKS5E.editing-name": "Activer édition",
+	"MOBLOKS5E.editing-hint": "Choisissez si l'édition est activée ou non, par défaut.",
+	"MOBLOKS5E.show-not-prof-name": "Afficher les compétences non-maîtrisées",
+	"MOBLOKS5E.show-not-prof-hint": "Choisissez si les compétences et sauvegarde non-maîtrisées sont afichées ou non, par défaut.",
+	"MOBLOKS5E.show-resources-name": "Afficher les valeurs de ressources",
+	"MOBLOKS5E.show-resources-hint": "Choisissez si les valeurs de ressources sont affichées ou non, par défaut.",
+	"MOBLOKS5E.show-skill-save-name": "Toujours afficher les compétences et sauvegardes",
+	"MOBLOKS5E.show-skill-save-hint": "Choisissez si les compétences vides et sauvegardes sont affichées ou non, par défaut."
 }
